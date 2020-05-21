@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/dhsanchesp/clean-node-api/issues"
   },
-  "homepage": "https://github.com/dhsanchesp/clean-node-api#readme"
+  "homepage": "https://github.com/dhsanchesp/clean-node-api#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
 }
