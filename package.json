@@ -1,0 +1,19 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "description": "Project based on the online course by @rmanguinho, using CLEAN Architecture, written in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhsanchesp/clean-node-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhsanchesp/clean-node-api/issues"
+  },
+  "homepage": "https://github.com/dhsanchesp/clean-node-api#readme"
+}
