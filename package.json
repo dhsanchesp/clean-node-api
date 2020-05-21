@@ -4,7 +4,7 @@
   "description": "Project based on the online course by @rmanguinho, using CLEAN Architecture, written in Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -27,9 +27,12 @@
     "url": "https://github.com/dhsanchesp/clean-node-api/issues"
   },
   "homepage": "https://github.com/dhsanchesp/clean-node-api#readme",
-  "dependencies": {},
+  "dependencies": {
+    "jest-cli": "^26.0.1"
+  },
   "devDependencies": {
     "husky": "^4.2.5",
+    "jest": "^26.0.1",
     "lint-staged": "^10.2.4",
     "standard": "^14.3.4"
   }
